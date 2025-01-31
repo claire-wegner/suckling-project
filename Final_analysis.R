@@ -20,7 +20,7 @@ suckling_data$study <- as.factor(suckling_data$study)
 
 # For all analyses, filter for suckling bouts
 suckling_data_2 <- suckling_data %>%
-  filter(behaviour == "suckling_bout")
+  filter(behavior == "suckling_bout")
 
 # COW-DRIVEN SYSTEM ------------------------------------------------------------
 ## a) Total SB (no bouts/d) ----------------------------------------------------
