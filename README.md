@@ -107,7 +107,7 @@ observation day. Only applicable to close-to-udder events.
 ### allosuckling
 
 Whether or not a suckling bout occured on the dam (1) or an alien cow
-(0). Only applicable to suckling bouts.
+(0). Only applicable to suckling bouts. Referred to as "bout type" in the main paper.
 
 ### twin
 
