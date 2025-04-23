@@ -1,6 +1,5 @@
 # Install and load the following packages
 library (tidyverse)
-library (nlme)
 library (lme4)
 library (emmeans)
 library (car)
